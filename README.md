@@ -1,9 +1,13 @@
-###   Hello Fellow < Developers/ >! 
-##    I'm Abhishek Aryan 👋
-###  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner.
-####  Thank You for taking the time to view my GitHub Profile 😄
+###  <p  align="center"> Hello Fellow < Developers/ >! </p>
+##  <p  align="center"> I'm Abhishek Aryan 👋</p>
+### <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
+####  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekaryangiri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekaryangiri" /> </p>
 
-<img src="https://camo.githubusercontent.com/173e431d4dfc09e6f06d3a2bc1e79dc90d92fb82952c1558cc61a99cae757add/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a2d6e744c33447376632d644a35634c475274537545772e676966"> 
+---
+
+<p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
