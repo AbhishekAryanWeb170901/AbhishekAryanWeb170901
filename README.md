@@ -1,7 +1,7 @@
-###  <p  align="center"> Hello Fellow < Developers/ >! </p>
-##  <p  align="center"> I'm Abhishek Aryan 👋</p>
-### <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
-####  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
+##  <p  align="center"> Hello Fellow < Developers/ >! </p>
+#  <p  align="center"> I'm Abhishek Aryan 👋</p>
+## <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
+###  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekaryangiri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekaryangiri" /> </p>
 
@@ -17,7 +17,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 </div>
 
 ---
@@ -39,22 +41,24 @@
 
 ### :fire: My GitHub Stats :
 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/abhishekaryangiri/github-readme-stats)
+  
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekaryangiri&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
----
+
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="abhishekaryangiri" height="172" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/abhishekaryangiri/github-readme-stats)
-    
+   
 </p>
-<br>
+
 
 
 
