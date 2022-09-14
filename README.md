@@ -47,17 +47,11 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekaryangiri&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="abhishekaryangiri" height="172" />
-   
-</p>
+[![Abhishek Aryan Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&theme=radical)](https://github.com/abhishekaryangiri)
 
 
 
