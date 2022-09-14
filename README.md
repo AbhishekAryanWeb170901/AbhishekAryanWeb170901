@@ -7,8 +7,13 @@
 
 ---
 
-<p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
+<a href="https://github.com/abhishekaryangiri/github-readme-activity-graph"><img alt="abhishekaryangiri's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhishekaryangiri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+---
+
+<p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
+---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangirih" alt="" /></a> </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,13 +36,29 @@
 
 ---
 
-### :fire: My Stats :
+
+### :fire: My GitHub Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekaryangiri&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/abhishekaryangiri/github-readme-stats)
+
 
 ---
+<!----------------------------------- GitHub Stats Section ------------------------------------>
 
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhishekaryangiri&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="abhishekaryangiri" height="172" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/abhishekaryangiri/github-readme-stats)
+    
+</p>
+<br>
+
+
+
+<!----------------------------------- Top Repository Section ------------------------------------>
 
 
 <!--
