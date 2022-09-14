@@ -12,8 +12,14 @@
 ---
 
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
----
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangirih" alt="" /></a> </p>
+
+---
+
+<p align="center"> <a href="https://github.com/abhishekaryangiri/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekaryangiri&row=1&column=6&theme=onedark" alt="abhishekaryangiri" /></a> </p>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -34,8 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 ---
-
-
 ### :fire: My GitHub Stats :
 
 
