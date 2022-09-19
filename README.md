@@ -21,8 +21,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
+###   <p align="center"> :hammer_and_wrench: Languages and Tools :    </p>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,10 +37,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </p>
+  
+
 
 ---
-### :fire: My GitHub Stats :
+###  <p align="center">  :fire: My GitHub Stats :  </p>
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/abhishekaryangiri/github-readme-stats)
