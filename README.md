@@ -1,11 +1,34 @@
 ##  <p  align="center"> Hello Fellow < Developers/ >! </p>
 #  <p  align="center"> I'm Abhishek Aryan 👋</p>
 ## <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
+
+ ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+ 
+ ---
 ###  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekaryangiri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekaryangiri" /> </p>
 
 ---
+
+
+
+
+<p align="center">
+<a href="https://github.com/abhishekaryangiri"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekaryangiri&theme=dracula" />
+</span></a> </p>
+ 
+
+
+
+---
+
+
+
+
+
+
 
 <a href="https://github.com/abhishekaryangiri/github-readme-activity-graph"><img alt="abhishekaryangiri's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhishekaryangiri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
