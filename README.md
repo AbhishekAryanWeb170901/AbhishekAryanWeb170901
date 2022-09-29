@@ -1,15 +1,24 @@
 ##  <p  align="center"> Hello Fellow < Developers/ >! </p>
-#  <p  align="center"> I'm Abhishek Aryan 👋</p>
+##  <p  align="center"> I'm Abhishek Aryan 👋</p>
 ## <p  align="center">  🌱 I’m An Enthusiast, Code Lover and Life-Long Learner. </p>
-
- ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
- 
- ---
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+---
 ###  <p  align="center"> Thank You for taking the time to view my GitHub Profile 😄 </p>
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekaryangiri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekaryangiri" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekaryangiri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekaryangiri" /> </p>
 
----
+
+
+
+
+
+
+<a href="https://github.com/abhishekaryangiri/github-readme-activity-graph"><img alt="abhishekaryangiri's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhishekaryangiri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+
 
 
 
@@ -30,9 +39,7 @@
 
 
 
-<a href="https://github.com/abhishekaryangiri/github-readme-activity-graph"><img alt="abhishekaryangiri's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abhishekaryangiri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
----
 
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
 
@@ -44,6 +51,16 @@
 
 ---
 
+
+
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+
+
+
+<!--
 ###   <p align="center"> :hammer_and_wrench: Languages and Tools :    </p>
 
 <p align="center">
@@ -65,7 +82,7 @@
   
   </p>
   
-
+-->
 
 ---
 ###  <p align="center">  :fire: My GitHub Stats :  </p>
